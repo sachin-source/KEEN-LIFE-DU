@@ -1,0 +1,23 @@
+{
+  "name": "keen-life-du",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachin-source/KEEN-LIFE-DU.git"
+  },
+  "author": "sachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachin-source/KEEN-LIFE-DU/issues"
+  },
+  "homepage": "https://github.com/sachin-source/KEEN-LIFE-DU#readme"
+}
